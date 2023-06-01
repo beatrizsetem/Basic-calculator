@@ -1,2 +1,2 @@
-# js-basics
+# Basic-calculator
 Some projects about javascript.
